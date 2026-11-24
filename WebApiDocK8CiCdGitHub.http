@@ -1,0 +1,6 @@
+@WebApiDocK8CiCdGitHub_HostAddress = http://localhost:5023
+
+GET {{WebApiDocK8CiCdGitHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
